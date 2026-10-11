@@ -1,0 +1,23 @@
+{
+ "item.mobsruleta.ruleta_naranja": "Orange Wheel",
+ "entity.mobsruleta.snow_creeper": "Snowy Creeper",
+ "item.mobsruleta.snow_creeper_spawn_egg": "Snowy Creeper Spawn Egg",
+ "entity.mobsruleta.grass_creeper": "Grass Creeper",
+ "item.mobsruleta.grass_creeper_spawn_egg": "Grass Creeper Spawn Egg",
+ "entity.mobsruleta.spring_creeper": "Spring Creeper",
+ "item.mobsruleta.spring_creeper_spawn_egg": "Spring Creeper Spawn Egg",
+ "entity.mobsruleta.mind_ghost": "Mind Ghost",
+ "item.mobsruleta.mind_ghost_spawn_egg": "Mind Ghost Spawn Egg",
+ "entity.mobsruleta.air_dragon": "Air Dragon",
+ "item.mobsruleta.air_dragon_spawn_egg": "Air Dragon Spawn Egg",
+ "entity.mobsruleta.dementia_eye": "Eye of Dementia",
+ "item.mobsruleta.dementia_eye_spawn_egg": "Eye of Dementia Spawn Egg",
+ "entity.mobsruleta.lava_creeper": "Lava Creeper",
+ "item.mobsruleta.lava_creeper_spawn_egg": "Lava Creeper Spawn Egg",
+ "entity.mobsruleta.toxic_creeper": "Toxic Creeper",
+ "item.mobsruleta.toxic_creeper_spawn_egg": "Toxic Creeper Spawn Egg",
+ "entity.mobsruleta.stalker": "Stalker",
+ "item.mobsruleta.stalker_spawn_egg": "Stalker Spawn Egg",
+ "entity.mobsruleta.mud_golem": "Mud Golem",
+ "item.mobsruleta.mud_golem_spawn_egg": "Mud Golem Spawn Egg"
+}

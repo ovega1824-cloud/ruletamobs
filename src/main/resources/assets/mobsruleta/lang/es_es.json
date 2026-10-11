@@ -1,0 +1,23 @@
+{
+ "item.mobsruleta.ruleta_naranja": "Ruleta naranja",
+ "entity.mobsruleta.snow_creeper": "Creeper nevado",
+ "item.mobsruleta.snow_creeper_spawn_egg": "Huevo de Creeper nevado",
+ "entity.mobsruleta.grass_creeper": "Creeper de pasto",
+ "item.mobsruleta.grass_creeper_spawn_egg": "Huevo de Creeper de pasto",
+ "entity.mobsruleta.spring_creeper": "Creeper de resorte",
+ "item.mobsruleta.spring_creeper_spawn_egg": "Huevo de Creeper de resorte",
+ "entity.mobsruleta.mind_ghost": "Fantasma de la mente",
+ "item.mobsruleta.mind_ghost_spawn_egg": "Huevo de Fantasma de la mente",
+ "entity.mobsruleta.air_dragon": "Dragón de aire",
+ "item.mobsruleta.air_dragon_spawn_egg": "Huevo de Dragón de aire",
+ "entity.mobsruleta.dementia_eye": "Ojo de la demencia",
+ "item.mobsruleta.dementia_eye_spawn_egg": "Huevo de Ojo de la demencia",
+ "entity.mobsruleta.lava_creeper": "Creeper de lava",
+ "item.mobsruleta.lava_creeper_spawn_egg": "Huevo de Creeper de lava",
+ "entity.mobsruleta.toxic_creeper": "Creeper venenoso",
+ "item.mobsruleta.toxic_creeper_spawn_egg": "Huevo de Creeper venenoso",
+ "entity.mobsruleta.stalker": "Acechador",
+ "item.mobsruleta.stalker_spawn_egg": "Huevo de Acechador",
+ "entity.mobsruleta.mud_golem": "Gólem de lodo",
+ "item.mobsruleta.mud_golem_spawn_egg": "Huevo de Gólem de lodo"
+}

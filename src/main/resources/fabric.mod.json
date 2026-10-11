@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "mobsruleta",
+  "version": "${version}",
+  "name": "Mobs de la Ruleta Naranja",
+  "description": "Ruleta naranja (solo admins) y 15 mobs hostiles nuevos con huevo de aparicion y aparicion natural en el overworld.",
+  "authors": [],
+  "license": "MIT",
+  "icon": "assets/mobsruleta/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.mobsruleta.MobsRuletaMod"],
+    "client": ["com.mobsruleta.client.MobsRuletaClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
